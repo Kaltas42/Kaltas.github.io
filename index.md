@@ -1,5 +1,5 @@
 ---
-title: Welcome to my homepage
+Colin Tang: Welcome to my homepage
 ---
 Hi, my name is Colin Tang, an aspiring graphic designer and illustrator.
 I'm someone who enjoys creating content through illustrations and animations.
